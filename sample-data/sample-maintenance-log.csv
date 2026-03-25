@@ -1,0 +1,41 @@
+Work_Order_ID,Date,Equipment_ID,Equipment_Name,Location,Maintenance_Type,Description,Duration_Hours,Cost_JOD,Technician
+WO-2025-001,2025-01-05,P-301,Brine Transfer Pump,Building A,Corrective,Mechanical seal replacement due to leak detected during routine rounds,4.5,850.00,Ahmad Hassan
+WO-2025-002,2025-01-08,C-201,Primary Crusher,Outdoor Area,Preventive,Monthly inspection - jaw plate wear measurement and lubrication,3.0,120.00,Omar Khalil
+WO-2025-003,2025-01-12,B-105,Packaging Conveyor,Building B,Corrective,Belt replacement after slip detection alarm triggered repeatedly,6.0,680.00,Yousef Nasser
+WO-2025-004,2025-01-15,M-102,Crystallizer Motor 30kW,Building A,Preventive,Quarterly vibration analysis and bearing temperature check,2.0,80.00,Ahmad Hassan
+WO-2025-005,2025-01-20,V-401,Control Valve Brine,Building A,Corrective,Actuator failure - valve stuck in closed position. Replaced actuator.,5.0,2200.00,Sami Tariq
+WO-2025-006,2025-01-25,CB-102,Conveyor Belt Main,Outdoor Area,Corrective,Emergency belt splice after tear detected by operator,8.0,1500.00,Omar Khalil
+WO-2025-007,2025-02-01,P-301,Brine Transfer Pump,Building A,Preventive,Monthly vibration check and oil sample analysis,1.5,45.00,Ahmad Hassan
+WO-2025-008,2025-02-05,E-201,Heat Exchanger Brine,Building A,Preventive,Annual tube bundle inspection and cleaning,12.0,350.00,Yousef Nasser
+WO-2025-009,2025-02-10,C-201,Primary Crusher,Outdoor Area,Corrective,Jaw plate replacement - worn beyond tolerance limit,16.0,4800.00,Omar Khalil
+WO-2025-010,2025-02-14,AG-101,Agitator Crystallizer,Building A,Corrective,Unusual noise from gearbox. Inspection revealed worn gear teeth. Gearbox rebuild.,24.0,6500.00,Sami Tariq
+WO-2025-011,2025-02-20,P-302,Acid Dosing Pump,Building C,Preventive,Diaphragm inspection and calibration check,2.0,65.00,Ahmad Hassan
+WO-2025-012,2025-02-25,M-105,Conveyor Drive Motor 15kW,Building B,Corrective,Motor overheating alarm. Found blocked cooling fan. Cleaned and tested.,3.0,95.00,Yousef Nasser
+WO-2025-013,2025-03-01,P-301,Brine Transfer Pump,Building A,Preventive,Monthly vibration check and oil sample. Vibration trending upward.,1.5,45.00,Ahmad Hassan
+WO-2025-014,2025-03-05,CMP-01,Air Compressor Atlas Copco,Utility Room,Preventive,6-monthly service - filters oil separator and belt replacement,6.0,780.00,Sami Tariq
+WO-2025-015,2025-03-10,CB-103,Packaging Belt,Building B,Corrective,Belt tension adjustment and tracking alignment after product spillage,2.5,35.00,Omar Khalil
+WO-2025-016,2025-03-15,FT-201,Flow Meter Brine,Building A,Corrective,Erratic readings. Calibration drift detected. Recalibrated in field.,3.0,120.00,Ahmad Hassan
+WO-2025-017,2025-03-20,P-301,Brine Transfer Pump,Building A,Corrective,Bearing replacement - vibration exceeded alarm threshold at 8.5mm/s,6.0,420.00,Ahmad Hassan
+WO-2025-018,2025-03-25,TX-301,Transformer 500kVA,Substation 2,Preventive,Annual oil sampling and thermographic inspection,4.0,280.00,Sami Tariq
+WO-2025-019,2025-04-01,C-201,Primary Crusher,Outdoor Area,Preventive,Monthly inspection - belt tension and alignment check,3.0,120.00,Omar Khalil
+WO-2025-020,2025-04-05,P-303,Cooling Water Pump,Utility Room,Corrective,Shaft sleeve scoring. Replaced sleeve and mechanical seal,8.0,1100.00,Yousef Nasser
+WO-2025-021,2025-04-10,AG-101,Agitator Crystallizer,Building A,Preventive,Post-rebuild monitoring. Vibration and temperature within spec.,1.5,45.00,Ahmad Hassan
+WO-2025-022,2025-04-15,CB-102,Conveyor Belt Main,Outdoor Area,Preventive,Monthly roller inspection and belt tracking verification,2.5,60.00,Omar Khalil
+WO-2025-023,2025-04-20,VFD-201,Variable Frequency Drive 30kW,Building A,Corrective,Drive fault code F0001 - overcurrent. Replaced IGBT module.,4.0,1800.00,Sami Tariq
+WO-2025-024,2025-04-25,P-301,Brine Transfer Pump,Building A,Preventive,Monthly vibration check. Readings stabilized after bearing replacement.,1.5,45.00,Ahmad Hassan
+WO-2025-025,2025-05-01,SC-101,Scrubber Dust Collection,Building A,Corrective,Fan impeller imbalance causing excessive vibration. Balanced on-site.,6.0,350.00,Yousef Nasser
+WO-2025-026,2025-05-05,C-201,Primary Crusher,Outdoor Area,Preventive,Monthly inspection plus toggle plate check,3.5,120.00,Omar Khalil
+WO-2025-027,2025-05-10,M-102,Crystallizer Motor 30kW,Building A,Preventive,Quarterly vibration analysis. All readings within acceptable limits.,2.0,80.00,Ahmad Hassan
+WO-2025-028,2025-05-15,HV-501,HVAC Unit Office,Administration,Corrective,Compressor failure in office AC unit. Refrigerant recharge and compressor swap.,8.0,2400.00,Sami Tariq
+WO-2025-029,2025-05-20,P-302,Acid Dosing Pump,Building C,Corrective,Diaphragm rupture detected during routine check. Emergency replacement.,3.0,280.00,Ahmad Hassan
+WO-2025-030,2025-05-25,CB-103,Packaging Belt,Building B,Preventive,Monthly inspection and tension adjustment,2.0,35.00,Omar Khalil
+WO-2025-031,2025-06-01,P-301,Brine Transfer Pump,Building A,Preventive,Monthly check. Added alignment verification after vibration history.,2.0,45.00,Ahmad Hassan
+WO-2025-032,2025-06-05,C-201,Primary Crusher,Outdoor Area,Corrective,Hydraulic cylinder leak on crusher adjustment mechanism,4.0,650.00,Omar Khalil
+WO-2025-033,2025-06-10,E-201,Heat Exchanger Brine,Building A,Corrective,Reduced heat transfer efficiency. Scaling detected. Chemical cleaning performed.,8.0,480.00,Yousef Nasser
+WO-2025-034,2025-06-15,BR-201,Centrifuge Separator,Building A,Corrective,Excessive vibration at 12mm/s. Emergency shutdown. Basket imbalance due to product buildup,10.0,1200.00,Sami Tariq
+WO-2025-035,2025-06-20,M-108,Compressor Motor 45kW,Utility Room,Preventive,Semi-annual insulation resistance test and bearing check,3.0,120.00,Ahmad Hassan
+WO-2025-036,2025-06-25,P-304,Waste Water Pump,Building C,Corrective,Clogged impeller causing reduced flow. Disassembled and cleaned,4.0,85.00,Yousef Nasser
+WO-2025-037,2025-07-01,C-201,Primary Crusher,Outdoor Area,Preventive,Monthly inspection. Noted jaw plate at 65% wear - schedule replacement in August,3.0,120.00,Omar Khalil
+WO-2025-038,2025-07-05,P-301,Brine Transfer Pump,Building A,Preventive,Monthly vibration and oil check. Stable readings. Pump performing well.,1.5,45.00,Ahmad Hassan
+WO-2025-039,2025-07-10,CB-102,Conveyor Belt Main,Outdoor Area,Corrective,Emergency stop triggered by belt drift. Realigned tracking rollers.,3.0,90.00,Omar Khalil
+WO-2025-040,2025-07-15,ALL,All Equipment,All Locations,Preventive,Monthly planned shutdown - full plant inspection and PM execution,48.0,8500.00,All Technicians

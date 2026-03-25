@@ -1,0 +1,61 @@
+Item_ID,Item_Name,Category,Unit_Cost_JOD,Quantity_On_Hand,Monthly_Usage_Avg,Last_Movement_Date,Reorder_Point,Supplier
+INV-001,Conveyor Belt Segment 1200mm,Conveyor Parts,450.00,25,3,2025-11-15,10,Jordan Industrial Supply
+INV-002,Crusher Jaw Plate Set,Crusher Parts,1200.00,8,1,2025-12-01,3,Mining Equipment MENA
+INV-003,Hydraulic Oil ISO 46 (20L),Lubricants,35.00,120,15,2025-12-10,50,Petro Jordan
+INV-004,Bearing 6310-2RS,Bearings,28.00,200,20,2025-12-08,80,SKF Jordan
+INV-005,Electric Motor 15kW,Motors,890.00,6,0,2025-03-20,2,Siemens Amman
+INV-006,V-Belt B68,Belts,12.00,150,25,2025-12-05,60,Gates MENA
+INV-007,Mechanical Seal 50mm,Seals,320.00,15,2,2025-11-20,5,Flowserve ME
+INV-008,Pump Impeller SS316,Pump Parts,680.00,4,0,2025-01-15,2,KSB Arabia
+INV-009,Safety Helmet White,PPE,8.50,300,30,2025-12-12,100,3M Jordan
+INV-010,Chemical Resistant Gloves (pair),PPE,15.00,500,60,2025-12-10,200,Ansell MENA
+INV-011,Acid Resistant Apron,PPE,45.00,40,3,2025-11-28,15,DuPont ME
+INV-012,Welding Rod E6013 (5kg),Consumables,18.00,80,10,2025-12-01,30,ESAB Jordan
+INV-013,Pipe Fitting 4inch Flange SS,Piping,95.00,30,4,2025-11-10,10,Valvitalia ME
+INV-014,Gasket Set EPDM 4inch,Seals,22.00,100,12,2025-12-05,40,Garlock MENA
+INV-015,PLC Module Siemens S7-1500,Electronics,1450.00,3,0,2025-04-10,1,Siemens Amman
+INV-016,Temperature Sensor PT100,Instruments,85.00,20,2,2025-10-15,8,Endress+Hauser
+INV-017,Pressure Gauge 0-10 bar,Instruments,42.00,25,3,2025-11-05,10,WIKA Jordan
+INV-018,Conveyor Roller 150mm,Conveyor Parts,65.00,45,5,2025-11-22,15,Jordan Industrial Supply
+INV-019,Crusher Liner Plate,Crusher Parts,2800.00,2,0,2025-02-28,1,Mining Equipment MENA
+INV-020,Grease Cartridge EP2 (400g),Lubricants,5.50,400,50,2025-12-11,150,Shell Jordan
+INV-021,Filter Element Hydraulic,Filters,38.00,30,4,2025-11-18,12,Parker Hannifin ME
+INV-022,Air Filter Compressor,Filters,55.00,12,1,2025-09-20,4,Atlas Copco Jordan
+INV-023,Coupling Spider Insert,Couplings,35.00,20,2,2025-10-28,8,Lovejoy MENA
+INV-024,Circuit Breaker 100A,Electrical,180.00,8,1,2025-11-01,3,Schneider Jordan
+INV-025,Cable 4x16mm2 (per meter),Electrical,8.50,500,40,2025-12-03,150,Nexans ME
+INV-026,Stainless Steel Sheet 2mm,Raw Material,120.00,15,1,2025-08-15,5,Steel Jordan
+INV-027,Carbon Steel Pipe 4inch (6m),Raw Material,85.00,20,2,2025-11-12,8,Al-Dawliyah Steel
+INV-028,Bolt Set M16x80 SS (box),Fasteners,28.00,50,8,2025-12-07,20,Fastenal Jordan
+INV-029,Nut M16 SS (box of 100),Fasteners,15.00,40,6,2025-12-07,20,Fastenal Jordan
+INV-030,O-Ring Kit Viton (assorted),Seals,65.00,25,3,2025-11-25,10,Parker Hannifin ME
+INV-031,Spray Paint Industrial Gray,Consumables,7.00,60,8,2025-12-01,20,Jotun Jordan
+INV-032,Dust Mask FFP3 (box of 20),PPE,35.00,80,10,2025-12-09,30,3M Jordan
+INV-033,Safety Glasses Clear,PPE,6.00,200,25,2025-12-08,80,Uvex MENA
+INV-034,Fire Extinguisher ABC 6kg,Safety,45.00,30,1,2025-07-10,10,Jordan Fire Safety
+INV-035,First Aid Kit Industrial,Safety,120.00,10,0,2025-05-15,3,Johnson & Johnson
+INV-036,Spill Kit Chemical (bag),Safety,85.00,15,1,2025-09-20,5,New Pig MENA
+INV-037,Thermocouple Type K,Instruments,55.00,18,2,2025-10-30,6,Endress+Hauser
+INV-038,Flow Meter Electromagnetic 4in,Instruments,3200.00,1,0,2024-11-20,1,Endress+Hauser
+INV-039,Level Transmitter Radar,Instruments,2800.00,1,0,2024-09-15,1,VEGA Jordan
+INV-040,VFD 30kW ABB,Electronics,2200.00,2,0,2025-02-10,1,ABB Jordan
+INV-041,Transformer 100kVA,Electrical,4500.00,1,0,2024-06-20,0,Siemens Amman
+INV-042,UPS 10kVA,Electronics,3800.00,1,0,2024-08-05,0,APC Jordan
+INV-043,Compressor Oil (20L),Lubricants,48.00,20,2,2025-11-15,8,Shell Jordan
+INV-044,Chain Hoist 2T Manual,Lifting,650.00,3,0,2025-01-20,1,Kito MENA
+INV-045,Wire Rope 12mm (per meter),Lifting,6.50,200,10,2025-10-05,50,Bridon ME
+INV-046,Shackle 3.25T Bow,Lifting,25.00,20,1,2025-08-20,5,Crosby MENA
+INV-047,Conveyor Belt Splice Kit,Conveyor Parts,280.00,5,0,2025-04-15,2,Jordan Industrial Supply
+INV-048,Pump Shaft Sleeve SS316,Pump Parts,420.00,3,0,2024-12-10,1,KSB Arabia
+INV-049,Agitator Blade Set,Mixer Parts,550.00,2,0,2024-07-25,1,Chemineer ME
+INV-050,Crystallizer Screen Panel,Process Parts,380.00,6,1,2025-09-12,2,Sweco MENA
+INV-051,pH Probe Industrial,Instruments,180.00,8,1,2025-10-18,3,Endress+Hauser
+INV-052,Conductivity Sensor,Instruments,210.00,5,0,2025-03-05,2,Endress+Hauser
+INV-053,Control Valve 4inch Globe,Valves,1850.00,2,0,2024-10-30,1,Fisher Controls
+INV-054,Ball Valve 2inch SS,Valves,95.00,15,2,2025-11-08,5,Swagelok Jordan
+INV-055,Check Valve 4inch,Valves,120.00,8,1,2025-10-01,3,Flowserve ME
+INV-056,Butterfly Valve 6inch,Valves,165.00,6,0,2025-05-20,2,KSB Arabia
+INV-057,Gasket Sheet PTFE 1.5mm,Seals,35.00,20,3,2025-11-28,8,Garlock MENA
+INV-058,Packing Rope PTFE 10mm,Seals,28.00,15,2,2025-10-15,5,Garlock MENA
+INV-059,Expansion Joint Rubber 4in,Piping,220.00,4,0,2025-06-10,1,Garlock MENA
+INV-060,Pipe Support Clamp 4inch,Piping,18.00,40,5,2025-11-20,15,Hilti Jordan

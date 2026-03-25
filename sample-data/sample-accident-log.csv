@@ -1,0 +1,97 @@
+Date,Injury_Type,Location,Shift,Root_Cause,Severity,Incident_Description
+2021-01-15,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Worker slipped on wet floor near crystallization tank. No spill containment mat was in place. Minor bruise on left arm.
+2021-02-03,Chemical Burn,Building C - Acid Storage,Night,PPE Violation,Moderate,Technician handling concentrated acid without proper gloves. Burn on right hand. Emergency shower used immediately.
+2021-02-20,Struck By Object,Outdoor - Conveyor Area,Evening,Loose Equipment,Minor,Loose bolt fell from overhead conveyor structure during maintenance. Hit worker's hard hat. No injury but near-miss classified as incident.
+2021-03-11,Slip/Fall,Building B - Packaging,Morning,Housekeeping,Minor,Spilled potash granules on floor caused worker to slip. Twisted ankle. Area was not cleaned after previous shift.
+2021-04-05,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Moderate,Loader operator collapsed due to heat exposure. Temperature was 42C. Water station was 200m away. Transported to clinic.
+2021-04-18,Caught In Machine,Building A - Crusher,Night,Lockout Failure,Serious,Operator's sleeve caught in crusher feed mechanism. Machine was not properly locked out. Arm laceration requiring stitches.
+2021-05-02,Chemical Exposure,Building C - Brine Pools,Evening,Ventilation Failure,Moderate,Three workers reported dizziness near brine evaporation pools. Ventilation system had failed 2 hours prior. No alarm triggered.
+2021-05-30,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Water leak from pipe joint created puddle near walkway. Worker slipped carrying tools. Minor back strain.
+2021-06-14,Vehicle Accident,Outdoor - Haul Road,Morning,Speed Violation,Serious,Dump truck rear-ended water tanker on haul road. Driver was speeding in construction zone. Both vehicles damaged. Driver bruised ribs.
+2021-07-01,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Moderate,Two workers fainted during routine inspection of solar evaporation ponds. Midday temperature exceeded 45C. Rest breaks were not enforced.
+2021-07-22,Electrical Shock,Building B - Motor Room,Evening,Faulty Wiring,Serious,Electrician received shock while inspecting motor control panel. Ground fault protection had been bypassed during previous repair.
+2021-08-09,Slip/Fall,Building A - Crystallization,Night,Wet Floor,Minor,Condensation buildup on metal stairs near crystallization unit. Worker slipped descending stairs. Bruised knee.
+2021-08-25,Chemical Burn,Building C - Acid Storage,Morning,PPE Violation,Moderate,Splash of diluted acid during transfer operation. Worker was not wearing face shield. Minor burn on cheek.
+2021-09-12,Struck By Object,Outdoor - Conveyor Area,Morning,Falling Material,Minor,Small rocks fell from conveyor belt onto worker below. Hard hat prevented injury. Belt alignment was off causing material spillage.
+2021-10-03,Musculoskeletal,Building B - Packaging,Evening,Manual Handling,Minor,Worker strained lower back lifting 40kg bag without mechanical assistance. Lift assist equipment was available but not used.
+2021-10-28,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Cleaning water overflow from tank washing created slippery surface. Worker slipped. Minor wrist sprain.
+2021-11-15,Vehicle Accident,Outdoor - Haul Road,Night,Poor Visibility,Moderate,Forklift collided with parked trailer in poorly lit area. Night shift lighting had two burned out fixtures. Forklift operator whiplash.
+2021-12-05,Chemical Exposure,Building C - Brine Pools,Morning,Procedure Violation,Minor,Worker opened valve in wrong sequence during brine transfer. Small chemical splash. Quick response prevented serious exposure.
+2022-01-10,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Ice formation on outdoor walkway between buildings during winter morning. Worker slipped. Bruised hip.
+2022-01-28,Caught In Machine,Building B - Packaging,Evening,Guard Removed,Serious,Packaging machine guard had been removed for cleaning and not replaced. Worker's hand contacted moving belt. Finger laceration.
+2022-02-14,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Minor,Early season heat wave. Worker reported dizziness. Sent to rest area. Mild dehydration.
+2022-03-05,Chemical Burn,Building C - Acid Storage,Night,PPE Violation,Moderate,Night shift worker handling acid without full PPE. Splash on forearm. Training records showed expired safety certification.
+2022-03-22,Struck By Object,Building A - Crusher,Morning,Falling Material,Moderate,Rock fragment ejected from crusher. Hit worker standing outside exclusion zone. The exclusion zone barriers had been moved.
+2022-04-10,Slip/Fall,Outdoor - Solar Ponds,Morning,Housekeeping,Minor,Salt crust on walkway near solar ponds. Worker slipped during routine monitoring. Minor scrape.
+2022-04-28,Electrical Shock,Building B - Motor Room,Morning,Faulty Equipment,Moderate,Maintenance worker contacted live terminal in motor starter. Energy isolation procedure was not followed completely.
+2022-05-15,Musculoskeletal,Building B - Packaging,Night,Manual Handling,Minor,Repetitive lifting of product bags without rotation breaks. Worker reported chronic shoulder pain after shift.
+2022-06-01,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Serious,Worker collapsed during summer inspection. Core body temperature elevated. Required medical evacuation. Shade structures inadequate.
+2022-06-20,Slip/Fall,Building A - Crystallization,Evening,Wet Floor,Minor,Overflow from wash cycle. Water pooled near equipment base. Worker slipped while checking gauges.
+2022-07-08,Chemical Exposure,Building C - Brine Pools,Morning,Equipment Failure,Moderate,Gasket failure on brine transfer line. Workers in area exposed to mist. Two reported throat irritation. Line was not inspected per schedule.
+2022-07-25,Vehicle Accident,Outdoor - Haul Road,Morning,Brake Failure,Serious,Haul truck brake failure on downhill grade. Truck slid into safety berm. Driver shaken but uninjured. Brake inspection was overdue by 2 weeks.
+2022-08-12,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Persistent moisture issue near cooling tower outlet. Third slip in this location this year. No permanent fix implemented.
+2022-08-30,Struck By Object,Outdoor - Conveyor Area,Evening,Loose Equipment,Minor,Inspection panel blown open by wind. Hit passing worker. Panel fasteners were corroded and not replaced during last maintenance.
+2022-09-18,Chemical Burn,Building C - Acid Storage,Morning,Procedure Violation,Moderate,Worker used wrong container for acid transfer. Container material reacted with acid. Splash during reaction. Arm burn.
+2022-10-05,Caught In Machine,Building A - Crusher,Night,Lockout Failure,Serious,Crusher started during maintenance. Lockout tag had been removed by another worker who thought maintenance was complete. Near miss - worker jumped clear.
+2022-10-22,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Minor,Late season heat event. Worker felt nauseous after 3 hours in sun. Water breaks had been skipped due to loading deadline.
+2022-11-10,Slip/Fall,Building B - Packaging,Morning,Housekeeping,Minor,Product spillage on polished floor. No immediate cleanup. Worker slipped carrying clipboard. Minor elbow bruise.
+2022-12-01,Electrical Shock,Building B - Motor Room,Night,Procedure Violation,Moderate,Apprentice attempted to work on energized circuit without supervision. Minor shock to fingers. Training gap identified.
+2023-01-08,Musculoskeletal,Building B - Packaging,Morning,Manual Handling,Minor,Worker attempted to lift two bags simultaneously to save time. Strained lower back. Second incident for this worker.
+2023-01-25,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Morning condensation on metal grating. Worker slipped during shift handover walk. Bruised shin.
+2023-02-12,Chemical Exposure,Building C - Brine Pools,Evening,Ventilation Failure,Moderate,Ventilation unit tripped on power fluctuation. Not restarted for 4 hours. Night shift workers complained of headaches.
+2023-03-01,Vehicle Accident,Outdoor - Haul Road,Morning,Distraction,Moderate,Driver using mobile phone while operating light vehicle. Rear-ended stationary equipment. Minor neck strain. Phone policy violated.
+2023-03-20,Struck By Object,Building A - Crusher,Morning,Falling Material,Minor,Dust cover dislodged from crusher hood. Fell on walkway near worker. Hard hat area but worker was adjusting hat at time.
+2023-04-08,Slip/Fall,Outdoor - Solar Ponds,Morning,Housekeeping,Minor,Mud buildup on access path after rain. Worker slipped during morning inspection. Knee scrape.
+2023-04-25,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Moderate,First major heat wave of season. Three workers reported to clinic. Work-rest cycle was not adjusted for temperature increase.
+2023-05-14,Chemical Burn,Building C - Acid Storage,Night,PPE Violation,Moderate,Worker removed gloves to operate phone. Residual acid on hands caused delayed burn reaction. Discovered after shift.
+2023-05-30,Caught In Machine,Building B - Packaging,Evening,Guard Removed,Moderate,Conveyor guard removed for jam clearance. Worker reached in while belt was moving. Finger tip contusion. Guard interlock was disabled.
+2023-06-18,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Same location as multiple previous incidents near cooling tower outlet. New slip reported. No engineering control implemented despite repeated incidents.
+2023-07-05,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Serious,Peak summer. Two workers required IV fluids. Solar pond inspection route has no shade for 800m. Buddy system not enforced.
+2023-07-22,Chemical Exposure,Building C - Brine Pools,Morning,Equipment Failure,Moderate,Pump seal failure sprayed brine mixture. Worker drenched. Emergency shower activated. Pump seal replacement was scheduled but delayed.
+2023-08-10,Slip/Fall,Building A - Crystallization,Night,Wet Floor,Minor,Night shift worker slipped on condensation. This is the fourth year of repeated slips at this location during summer months.
+2023-08-28,Vehicle Accident,Outdoor - Haul Road,Evening,Speed Violation,Moderate,Speeding water tanker on curve. Rolled onto side. Driver wore seatbelt. Minor injuries. Speed monitoring system was not operational.
+2023-09-15,Struck By Object,Outdoor - Conveyor Area,Morning,Falling Material,Minor,Material falling from transfer point between conveyors. Worker in area without authorization. Exclusion zone signage faded.
+2023-10-02,Electrical Shock,Building B - Motor Room,Morning,Faulty Wiring,Serious,Major shock event during panel inspection. Worker hospitalized overnight. Wiring had been modified without documentation during previous shutdown.
+2023-10-20,Musculoskeletal,Building B - Packaging,Evening,Manual Handling,Minor,End of shift fatigue. Worker dropped bag on foot while lifting. Steel toe boot prevented serious injury. Fatigue management policy not followed.
+2023-11-08,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Post-maintenance washdown water not drained. Morning shift encountered puddles. Worker slipped. Communication gap between shifts.
+2023-12-01,Chemical Burn,Building C - Acid Storage,Night,Procedure Violation,Moderate,Incorrect dilution ratio used during acid preparation. Stronger-than-expected solution splashed during mixing. Hand burn.
+2024-01-12,Slip/Fall,Building B - Packaging,Morning,Housekeeping,Minor,Plastic wrapping material on floor near packaging line. Worker stepped on it and slid. Minor ankle twist.
+2024-01-30,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Minor,Unseasonably warm January day. Worker not acclimated. Reported dizziness. Sent home early.
+2024-02-18,Chemical Exposure,Building C - Brine Pools,Evening,Ventilation Failure,Moderate,Third ventilation failure incident in 2 years. Backup system also failed. Multiple workers evacuated. Root cause: aged ventilation equipment.
+2024-03-05,Vehicle Accident,Outdoor - Haul Road,Night,Poor Visibility,Serious,Haul truck struck maintenance vehicle parked without reflectors at night. Significant vehicle damage. Two workers minor injuries.
+2024-03-22,Caught In Machine,Building A - Crusher,Morning,Lockout Failure,Serious,Similar to 2022 incident. Lockout procedure not followed during component replacement. Worker narrowly avoided rotating parts.
+2024-04-10,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Annual spring cleaning created excess water. Same crystallization area. Worker slipped. Recurring problem.
+2024-04-28,Struck By Object,Outdoor - Conveyor Area,Morning,Loose Equipment,Moderate,Wind-loosened panel struck worker. Third panel incident at conveyors. Panel securing system needs redesign.
+2024-05-15,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Moderate,Early summer heat. Workers did not take mandated water breaks. Supervisor was absent. Two workers treated for dehydration.
+2024-05-30,Chemical Burn,Building C - Acid Storage,Evening,PPE Violation,Moderate,Worker handling acid with torn gloves. Did not report damaged PPE. Acid penetrated glove and burned fingers.
+2024-06-18,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Cooling tower condensation. Same recurring location. Worker slipped. Fifth year of incidents at this exact spot.
+2024-07-05,Musculoskeletal,Building B - Packaging,Night,Manual Handling,Minor,Worker performed 6 hours of lifting without rotation. Back pain reported next day. Rotation schedule exists but not enforced at night.
+2024-07-22,Electrical Shock,Building B - Motor Room,Morning,Procedure Violation,Moderate,Worker tested circuit without proper lockout verification. Minor shock. Supervisor was not present for high-risk work.
+2024-08-10,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Serious,Peak summer. Shade structure still not built despite 3 years of similar incidents. Worker collapsed. Medical evacuation required.
+2024-08-28,Chemical Exposure,Building C - Brine Pools,Night,Equipment Failure,Moderate,Corroded flange failure on brine line. Night shift detected by smell. Evacuation completed. Flange was flagged for replacement 6 months prior.
+2024-09-15,Slip/Fall,Outdoor - Conveyor Area,Evening,Housekeeping,Minor,Oil spill from conveyor gearbox not cleaned. Worker slipped. Oil absorbent materials were not stocked in the area.
+2024-10-01,Vehicle Accident,Outdoor - Haul Road,Morning,Distraction,Moderate,Driver adjusting radio while driving. Swerved off haul road. Vehicle damage. No injuries due to low speed.
+2024-10-20,Caught In Machine,Building B - Packaging,Night,Guard Removed,Moderate,Recurring issue: guards removed during jam clearance and not replaced. Night shift worker contacted moving parts. Finger injury.
+2024-11-08,Struck By Object,Building A - Crusher,Evening,Falling Material,Minor,Rock fragment ejected. Worker within exclusion zone. Hard hat and safety glasses prevented injury.
+2024-11-25,Chemical Burn,Building C - Acid Storage,Morning,Procedure Violation,Moderate,New employee performed acid transfer without buddy. Splash on leg. Training completion not verified before assignment.
+2024-12-10,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Winter condensation and wet floor near crystallization. Same area. Slip and fall. Annual recurring pattern now clearly documented.
+2025-01-08,Heat Exhaustion,Outdoor - Loading Dock,Morning,Environmental,Minor,Mild winter heat event. Worker not feeling well due to dehydration. Sent to rest area.
+2025-01-25,Musculoskeletal,Building B - Packaging,Evening,Manual Handling,Moderate,Worker injured back lifting heavy replacement parts without crane. Crane was available 50m away. Time pressure from supervisor.
+2025-02-12,Chemical Exposure,Building C - Brine Pools,Morning,Ventilation Failure,Moderate,Fourth ventilation incident. New ventilation system procurement approved but not yet installed. Workers evacuated.
+2025-03-01,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Same recurring location. Worker slipped on wet grating. This location has had 15+ slip incidents over 5 years.
+2025-03-20,Vehicle Accident,Outdoor - Haul Road,Night,Speed Violation,Serious,Speeding dump truck failed to stop at intersection. T-bone collision with utility vehicle. Two workers hospitalized.
+2025-04-05,Electrical Shock,Building B - Motor Room,Evening,Faulty Equipment,Moderate,Insulation breakdown in aged motor. Worker contacted exposed conductor during inspection. Shock to hand.
+2025-04-22,Struck By Object,Outdoor - Conveyor Area,Morning,Loose Equipment,Minor,Panel incident again. Same conveyor section. Management approved redesign after this incident.
+2025-05-10,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Moderate,Pre-summer heat. Solar pond workers without adequate hydration plan. Two treated. Shade structures still under construction.
+2025-05-28,Chemical Burn,Building C - Acid Storage,Night,PPE Violation,Moderate,Night shift worker improvised PPE due to shortage. Acid splash on exposed forearm. PPE inventory management gap.
+2025-06-15,Caught In Machine,Building A - Crusher,Morning,Lockout Failure,Serious,Third lockout-related incident at crusher. New electronic lockout system installation expedited after this event.
+2025-07-01,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Peak summer condensation. Same location. Anti-slip coating project finally approved and scheduled for next shutdown.
+2025-07-20,Heat Exhaustion,Outdoor - Solar Ponds,Morning,Environmental,Serious,Peak summer. Despite new protocols, enforcement was lax. Worker collapsed. Shade structure 60% complete.
+2025-08-08,Chemical Exposure,Building C - Brine Pools,Evening,Equipment Failure,Moderate,New ventilation system experienced commissioning issues. Brief exposure event. Resolved within 30 minutes.
+2025-08-25,Vehicle Accident,Outdoor - Haul Road,Morning,Brake Failure,Moderate,Brake system warning ignored by driver. Near-miss at intersection. Vehicle inspection adherence at 78% compliance.
+2025-09-12,Musculoskeletal,Building B - Packaging,Night,Manual Handling,Minor,Worker skipped using lift assist equipment. Back strain. Equipment was functioning and available.
+2025-10-01,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Post-shutdown restart created temporary wet conditions. Worker slipped. Anti-slip coating installed on 3 of 5 areas.
+2025-10-20,Struck By Object,Building A - Crusher,Morning,Falling Material,Minor,Minor rock fragment. Worker wearing full PPE. No injury. New crusher guards working as designed.
+2025-11-05,Chemical Burn,Building C - Acid Storage,Morning,PPE Violation,Minor,Minor acid splash. Worker wearing proper PPE. New face shield deflected splash effectively. PPE policy enforcement improved.
+2025-11-22,Electrical Shock,Building B - Motor Room,Evening,Procedure Violation,Minor,Worker felt tingling but new safety gloves prevented shock. Near-miss. Electronic lockout system flagged unauthorized access attempt.
+2025-12-10,Slip/Fall,Building A - Crystallization,Morning,Wet Floor,Minor,Reduced incidents after anti-slip coating. Minor slip on untreated area. Full coating completion scheduled for Q1 2026.

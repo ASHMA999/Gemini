@@ -1,0 +1,65 @@
+Date,Production_Line,Product,Target_Tonnes,Actual_Tonnes,Downtime_Hours,Downtime_Cause,Shift,Quality_Grade
+2025-07-01,Line 1,Potassium Chloride Standard,500,485,1.5,Conveyor Belt Adjustment,Morning,A
+2025-07-01,Line 2,Potassium Chloride Premium,300,310,0.0,None,Morning,A+
+2025-07-01,Line 1,Potassium Chloride Standard,500,470,2.0,Crusher Feed Blockage,Evening,A
+2025-07-01,Line 2,Potassium Chloride Premium,300,280,1.0,Crystallizer Temperature Variance,Evening,A
+2025-07-02,Line 1,Potassium Chloride Standard,500,495,0.5,Scheduled Lubrication,Morning,A
+2025-07-02,Line 2,Potassium Chloride Premium,300,305,0.0,None,Morning,A+
+2025-07-02,Line 1,Potassium Chloride Standard,500,460,3.0,Motor Overheating,Evening,B+
+2025-07-02,Line 2,Potassium Chloride Premium,300,290,0.5,Packaging Machine Jam,Evening,A
+2025-07-03,Line 1,Potassium Chloride Standard,500,490,1.0,Belt Alignment,Morning,A
+2025-07-03,Line 2,Potassium Chloride Premium,300,275,2.0,Pump Seal Failure,Morning,A
+2025-07-03,Line 1,Potassium Chloride Standard,500,480,1.5,Screen Mesh Blockage,Evening,A
+2025-07-03,Line 2,Potassium Chloride Premium,300,300,0.5,Electrical Trip,Evening,A
+2025-07-04,Line 1,Potassium Chloride Standard,500,200,6.0,Major Crusher Maintenance,Morning,B
+2025-07-04,Line 2,Potassium Chloride Premium,300,310,0.0,None,Morning,A+
+2025-07-04,Line 1,Potassium Chloride Standard,500,450,2.5,Post-Maintenance Calibration,Evening,A
+2025-07-04,Line 2,Potassium Chloride Premium,300,295,0.5,Power Fluctuation,Evening,A
+2025-07-05,Line 1,Potassium Chloride Standard,500,500,0.0,None,Morning,A+
+2025-07-05,Line 2,Potassium Chloride Premium,300,290,1.0,Brine Quality Variation,Morning,B+
+2025-07-05,Line 1,Potassium Chloride Standard,500,488,0.5,Conveyor Roller Replacement,Evening,A
+2025-07-05,Line 2,Potassium Chloride Premium,300,285,1.5,Crystallizer Scaling,Evening,A
+2025-07-06,Line 1,Potassium Chloride Standard,500,475,1.5,Heat-Related Slowdown,Morning,A
+2025-07-06,Line 2,Potassium Chloride Premium,300,260,2.5,Heat-Related Slowdown,Morning,B+
+2025-07-06,Line 1,Potassium Chloride Standard,500,465,2.0,Dust Collection System Fault,Evening,B+
+2025-07-06,Line 2,Potassium Chloride Premium,300,270,2.0,Packaging Line Failure,Evening,B
+2025-07-07,Line 1,Potassium Chloride Standard,500,495,0.5,Minor Adjustment,Morning,A
+2025-07-07,Line 2,Potassium Chloride Premium,300,305,0.0,None,Morning,A+
+2025-07-07,Line 1,Potassium Chloride Standard,500,490,0.5,Belt Tension,Evening,A
+2025-07-07,Line 2,Potassium Chloride Premium,300,300,0.0,None,Evening,A+
+2025-07-08,Line 1,Potassium Chloride Standard,500,480,1.0,Feed Hopper Level Low,Morning,A
+2025-07-08,Line 2,Potassium Chloride Premium,300,295,0.5,Sensor Malfunction,Morning,A
+2025-07-08,Line 1,Potassium Chloride Standard,500,470,1.5,Conveyor Belt Slip,Evening,A
+2025-07-08,Line 2,Potassium Chloride Premium,300,280,1.5,Pump Vibration High,Evening,B+
+2025-07-09,Line 1,Potassium Chloride Standard,500,485,1.0,Crusher Liner Wear,Morning,A
+2025-07-09,Line 2,Potassium Chloride Premium,300,290,1.0,Quality Adjustment,Morning,A
+2025-07-09,Line 1,Potassium Chloride Standard,500,440,3.5,Electrical Panel Trip,Evening,B
+2025-07-09,Line 2,Potassium Chloride Premium,300,265,2.5,Crystallizer Wash Cycle Extended,Evening,B+
+2025-07-10,Line 1,Potassium Chloride Standard,500,500,0.0,None,Morning,A+
+2025-07-10,Line 2,Potassium Chloride Premium,300,310,0.0,None,Morning,A+
+2025-07-10,Line 1,Potassium Chloride Standard,500,495,0.5,Minor Belt Adjustment,Evening,A
+2025-07-10,Line 2,Potassium Chloride Premium,300,300,0.0,None,Evening,A
+2025-07-11,Line 1,Potassium Chloride Standard,500,460,2.0,Screen Mesh Replacement,Morning,A
+2025-07-11,Line 2,Potassium Chloride Premium,300,275,2.0,Brine Feed Pump Issue,Morning,B+
+2025-07-11,Line 1,Potassium Chloride Standard,500,475,1.5,Conveyor Tracking Issue,Evening,A
+2025-07-11,Line 2,Potassium Chloride Premium,300,290,1.0,Dryer Temperature Low,Evening,A
+2025-07-12,Line 1,Potassium Chloride Standard,500,490,0.5,Routine Inspection,Morning,A
+2025-07-12,Line 2,Potassium Chloride Premium,300,300,0.5,Routine Inspection,Morning,A
+2025-07-12,Line 1,Potassium Chloride Standard,500,350,4.0,Crusher Motor Failure,Evening,B
+2025-07-12,Line 2,Potassium Chloride Premium,300,250,3.0,Power Outage,Evening,B
+2025-07-13,Line 1,Potassium Chloride Standard,500,480,1.0,Post-Repair Testing,Morning,A
+2025-07-13,Line 2,Potassium Chloride Premium,300,295,0.5,Startup After Outage,Morning,A
+2025-07-13,Line 1,Potassium Chloride Standard,500,470,1.5,Heat-Related Slowdown,Evening,A
+2025-07-13,Line 2,Potassium Chloride Premium,300,255,3.0,Heat-Related Slowdown,Evening,B
+2025-07-14,Line 1,Potassium Chloride Standard,500,485,1.0,Dust Collector Cleaning,Morning,A
+2025-07-14,Line 2,Potassium Chloride Premium,300,300,0.0,None,Morning,A+
+2025-07-14,Line 1,Potassium Chloride Standard,500,490,0.5,Minor Adjustment,Evening,A
+2025-07-14,Line 2,Potassium Chloride Premium,300,305,0.0,None,Evening,A+
+2025-07-15,Line 1,Potassium Chloride Standard,500,0,8.0,Planned Shutdown - Monthly PM,Morning,N/A
+2025-07-15,Line 2,Potassium Chloride Premium,300,0,8.0,Planned Shutdown - Monthly PM,Morning,N/A
+2025-07-15,Line 1,Potassium Chloride Standard,500,0,8.0,Planned Shutdown - Monthly PM,Evening,N/A
+2025-07-15,Line 2,Potassium Chloride Premium,300,0,8.0,Planned Shutdown - Monthly PM,Evening,N/A
+2025-07-16,Line 1,Potassium Chloride Standard,500,430,3.0,Post-Shutdown Startup Issues,Morning,B+
+2025-07-16,Line 2,Potassium Chloride Premium,300,260,2.5,Post-Shutdown Startup Issues,Morning,B+
+2025-07-16,Line 1,Potassium Chloride Standard,500,485,1.0,Stabilization,Evening,A
+2025-07-16,Line 2,Potassium Chloride Premium,300,295,0.5,Stabilization,Evening,A
